@@ -1,3 +1,4 @@
+# Python Version 2.7 - Cathal Murphy B00095643
 import hashlib
 
 some_string = "ecsc"
